@@ -8,5 +8,7 @@ package com.papijackson;
  *
  */
 public class User {
+  
+  private String firstName;
 
 }
